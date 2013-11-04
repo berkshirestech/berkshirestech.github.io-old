@@ -1,0 +1,47 @@
+---
+title: Southern Berkshire County Technology Group
+---
+
+<div class='jumbotron'>This is a group for people in Berkshire County, MA
+interested in engaging with all aspects of technology.</div>
+
+<div class='row lead'>
+  <div class='col-md-3'>
+    Join us if you are interested in any of the following:
+  </div>
+  <div class='col-md-9'>
+    <span class='label label-default'>electronics</span>
+    <span class='label label-default'>computer-aided fabrication</span>
+    <span class='label label-default'>maker movement</span>
+    <span class='label label-default'>philosophy of science</span>
+    <span class='label label-default'>open source software</span>
+    <span class='label label-default'>science fiction</span>
+    <span class='label label-default'>posthumanism</span>
+    <span class='label label-default'>product design</span>
+    <span class='label label-default'>programming</span>
+    <span class='label label-default'>technology critique</span>
+    <span class='label label-default'>copyleft/open society</span>
+    <span class='label label-default'>technology education</span>
+    <span class='label label-default'>culture and technology</span>
+  </div>
+</div>
+
+<div class='row'>
+  <div class='col-md-9'>
+    <div class='lead'>News</div>
+    <% blog.articles[0...3].each do |article| %>
+      <article>
+        <div class='lead'>
+          <a href="<%= article.url %>"><%= article.title %></a>
+        </div>
+
+        <%= article.summary %>
+
+        <a href="<%= article.url %>">Read more</a>
+      </article>
+    <% end %>
+  </div>
+  <div class='col-md-3 meetup'>
+     <iframe width="225" height="470" src="http://meetu.ps/23zhmP" frameborder="0"></iframe>
+  </div>
+</div>
