@@ -1,0 +1,17 @@
+---
+title: "Meetup: 1/27/2014"
+date: 2014-01-27 18:49 UTC
+tags: meetup
+---
+
+#### Coding
+
+[Meetup link](http://www.meetup.com/Southern-Berkshires-Technology-Group/events/161596012/)
+
+I want to have other meetings that will be on softer topics but this meeting
+will be focused on programming. That said, please come if you are interested in
+learning!
+
+Agenda: We could start by sharing any interesting projects we're working on,
+then (depending on number of people) we could break up into pairs or larger
+groups to do code review, pairing programming or katas.
