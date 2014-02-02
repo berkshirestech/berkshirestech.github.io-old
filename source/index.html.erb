@@ -1,5 +1,6 @@
 ---
 title: Southern Berkshire County Technology Group
+pageable: true
 ---
 
 <div class='jumbotron'>This is a group for people in Berkshire County, MA
@@ -31,17 +32,36 @@ interested in engaging with all aspects of technology.</div>
 <div class='row'>
   <div class='col-md-9'>
     <div class='lead'>News</div>
-    <% blog.articles[0...3].each do |article| %>
-      <article>
-        <div class='lead'>
-          <a href="<%= article.url %>"><%= article.title %></a>
-        </div>
+    <% page_articles[0...3].each do |article| %>
+      <div class='panel panel-default'>
+        <article class='panel-body'>
+          <div class='lead'>
+            <%= article.title %>
+          </div>
 
-        <%= article.summary %>
+          <%= article.summary %>
 
-        <a href="<%= article.url %>">Read more</a>
-      </article>
+          <a href="<%= article.url %>">Read more</a>
+        </article>
+      </div>
     <% end %>
+
+    <ul class="pagination">
+      <% 1.upto(num_pages) do |num| %>
+        <% if page_number == num %>
+          <li class='active'><a href='#'><%= num %></a></li>
+        <% else %>
+          <li>
+            <% if num == 1 %>
+              <a href='/'><%= num %></a>
+            <% else %>
+              <a href='/page/<%= num%>'><%= num %></a>
+            <% end %>
+          </li>
+        <% end %>
+      <% end %>
+    </ul>
+
   </div>
   <div class='col-md-3 meetup'>
      <iframe width="225" height="470" src="http://meetu.ps/23zhmP" frameborder="0"></iframe>

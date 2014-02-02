@@ -71,6 +71,9 @@ end
 
 activate :blog do |blog|
   blog.permalink = ":year/:title.html"
+  blog.layout = 'blog_layout'
+  blog.paginate = true
+  blog.per_page = 3
 end
 
 activate :directory_indexes
