@@ -6,6 +6,7 @@ gem "middleman", "~>3.2.0"
 gem "middleman-blog"
 gem "middleman-deploy"
 gem 'nokogiri'
+gem 'builder'
 
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
