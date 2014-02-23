@@ -1,0 +1,20 @@
+---
+title: "Meetup: 2/25/2014"
+date: 2014-02-23 07:11 UTC
+tags: meetup
+---
+#### General Meeting
+
+[Meetup link](http://http://www.meetup.com/Berkshire-County-Technology-Group/events/167305992/)
+
+Plans for this meeting:
+
+- Hackerspace/3D printer planning -- talk about concrete steps we can take to
+make either of these happen
+
+- Talk about ideas for future meetings
+
+-  Project pitches -- pitch small project ideas (code, device, design, writing,
+etc.) that you would like to work with other people on.
+
+- Break out into project groups based on interest 
