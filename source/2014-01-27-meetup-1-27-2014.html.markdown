@@ -6,7 +6,7 @@ tags: meetup
 
 #### Coding
 
-[Meetup link](http://www.meetup.com/Southern-Berkshires-Technology-Group/events/161596012/)
+[Meetup link](http://www.meetup.com/Berkshire-County-Technology-Group/events/161596012/)
 
 I want to have other meetings that will be on softer topics but this meeting
 will be focused on programming. That said, please come if you are interested in

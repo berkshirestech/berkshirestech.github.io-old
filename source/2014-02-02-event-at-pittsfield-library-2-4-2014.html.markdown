@@ -6,7 +6,7 @@ tags: meetup, special-event
 
 #### Digital Fabrication & 3D Art
 
-[Meetup link](http://www.meetup.com/Southern-Berkshires-Technology-Group/events/159063332/)
+[Meetup link](http://www.meetup.com/Berkshire-County-Technology-Group/events/159063332/)
 
 [More information here ](http://pittsfieldlibrary.wordpress.com/2014/01/25/digital-fabrication-3d-art-presentation-on-tuesday-february-4/) on the Pittsfield library website.
 

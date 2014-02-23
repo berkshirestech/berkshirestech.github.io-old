@@ -5,7 +5,7 @@ tags: meetup
 ---
 #### Tinkering, coding or just general geeking
 
-[Meetup link](http://www.meetup.com/Southern-Berkshires-Technology-Group/events/158906502/)
+[Meetup link](http://www.meetup.com/Berkshire-County-Technology-Group/events/158906502/)
 
 No set agenda. I'll bring my box of Arduino boards and breadboards to tinker
 with, but if anyone would rather focus on coding (talking shop, pair

@@ -5,7 +5,7 @@ tags: meetup
 ---
 #### Play with Arduinos and breadboards
 
-[Meetup link](http://www.meetup.com/Southern-Berkshires-Technology-Group/events/149030792/)
+[Meetup link](http://www.meetup.com/Berkshire-County-Technology-Group/events/149030792/)
 
 We'll be creating basic programs to run on the Arduino board connected to a
 breadboard. If you're not familiar with what an Arduino or a breadboard are

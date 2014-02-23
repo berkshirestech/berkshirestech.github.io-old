@@ -1,7 +1,7 @@
 xml.instruct!
 xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   site_url = "http://blog.url.com/"
-  xml.title "Southern Berkshire County Technology Group"
+  xml.title "Berkshire County Technology Group"
   xml.subtitle "For people in Berkshire County, MA interested in engaging with all aspects of technology."
   xml.id URI.join(site_url, blog.options.prefix.to_s)
   xml.link "href" => URI.join(site_url, blog.options.prefix.to_s)
