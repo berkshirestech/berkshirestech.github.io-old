@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Berkshire County Technology Group</title>
+  <subtitle>For people in Berkshire County, MA interested in engaging with all aspects of technology.</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2014-07-05T05:58:00Z</updated>
+  <author>
+    <name>Blog contributor</name>
+  </author>
+  <entry>
+    <title>Meetup: 7/15/2014</title>
+    <link rel="alternate" href="http://blog.url.com/2014/meetup-7-15-2014/"/>
+    <id>http://blog.url.com/2014/meetup-7-15-2014/</id>
+    <published>2014-07-05T05:58:00Z</published>
+    <updated>2014-07-05T01:59:12-04:00</updated>
+    <author>
+      <name>Blog contributor</name>
+    </author>
+    <summary type="html">&lt;h3 id="designerdeveloper-meetup"&gt;Designer/Developer meetup&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.meetup.com/Berkshire-County-Technology-Group/events/189708682/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/images/thunder-missile-launcher.jpg"&gt;&lt;/p&gt;
+
+&lt;p&gt;This week's meeting will have a different format than usual. We will be playing
+a programming/physics game with &lt;a href="http://www.dreamcheeky.com/thunder-missile-launcher"&gt;USB rocket
+launchers&lt;/a&gt;. We will break
+into teams and write programs that teach the rocket launchers...&lt;/p&gt;</summary>
+    <content type="html">&lt;h3 id="designerdeveloper-meetup"&gt;Designer/Developer meetup&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.meetup.com/Berkshire-County-Technology-Group/events/189708682/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/images/thunder-missile-launcher.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;This week's meeting will have a different format than usual. We will be playing
+a programming/physics game with &lt;a href="http://www.dreamcheeky.com/thunder-missile-launcher"&gt;USB rocket
+launchers&lt;/a&gt;. We will break
+into teams and write programs that teach the rocket launchers to shoot at
+targets when given some basic measurements. Then, toward the end of the meeting
+we will test out the programs. All in about 2 hours!&lt;/p&gt;
+
+&lt;p&gt;For more information read on:&lt;/p&gt;
+
+&lt;h3 id="thunder-missile-challenge"&gt;Thunder Missile Challenge&lt;/h3&gt;
+
+&lt;h4 id="goal"&gt;Goal&lt;/h4&gt;
+
+&lt;p&gt;Write a program which can get a USB missile launcher to fire darts at targets
+using a json file containing targeting information. The targeting information
+will be based on easy to measure angles and distances, but the challenge is that
+the native API speaks only in turning and tilting directions and time periods.
+To accomplish the goal, you’ll need to be able to translate the high level
+information into the low level API. You will need some minor (easily googleable)
+physics and geometry knowledge.&lt;/p&gt;
+
+&lt;h4 id="details"&gt;Details&lt;/h4&gt;
+
+&lt;p&gt;We have two USB rocket launchers, and will have computers with a basic node
+application with the API included. There will be two teams, each working
+independently to write an application which can read the targeting data from a
+file and then immediately try to shoot the targets. Teams will be given 90
+minutes to write the application before the final test. The final test will have
+targets set up with targeting data, and each team will take turns using the same
+targeting data to try to hit as many targets as accurately as possible. The team
+with the better score wins.&lt;/p&gt;
+
+&lt;h4 id="useful-knowledge"&gt;Useful Knowledge&lt;/h4&gt;
+
+&lt;p&gt;There is no required knowledge or abilities for this other than critical
+thinking/problem solving. Each team will have at least one member with the
+necessary coding ability, but it would be great to get some team programming
+going. If you wanted to brush up on anything to be prepared, here are some
+things that would be helpful:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://nodejs.org/"&gt;Node.js&lt;/a&gt; is the platform we will be using to talk to the launcher.&lt;/li&gt;
+  &lt;li&gt;Node uses the JavaScript language, so that would be helpful, even if you have
+no prior Node experience.&lt;/li&gt;
+  &lt;li&gt;A little bit of knowledge about angles, geometry, and some basic physics will be
+needed to get the job done. Internet access is available while writing the app,
+so you’ll be able to look up whatever you need, but it might help to have a
+basic understanding of the factors (for example, the role of gravity).&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Meetup: 2/25/2014</title>
+    <link rel="alternate" href="http://blog.url.com/2014/meetup-2-25-2014/"/>
+    <id>http://blog.url.com/2014/meetup-2-25-2014/</id>
+    <published>2014-02-23T07:11:00Z</published>
+    <updated>2014-07-05T01:53:07-04:00</updated>
+    <author>
+      <name>Blog contributor</name>
+    </author>
+    <summary type="html">&lt;h3 id="general-meeting"&gt;General Meeting&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://http//www.meetup.com/Berkshire-County-Technology-Group/events/167305992/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Plans for this meeting:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hackerspace/3D printer planning – talk about concrete steps we can take to
+make either of these happen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Talk about ideas for future meetings&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Project pitches – pitch small...&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    <content type="html">&lt;h3 id="general-meeting"&gt;General Meeting&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://http//www.meetup.com/Berkshire-County-Technology-Group/events/167305992/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Plans for this meeting:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hackerspace/3D printer planning – talk about concrete steps we can take to
+make either of these happen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Talk about ideas for future meetings&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Project pitches – pitch small project ideas (code, device, design, writing,
+etc.) that you would like to work with other people on.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Break out into project groups based on interest &lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Event at Pittsfield Library: 2/4/2014</title>
+    <link rel="alternate" href="http://blog.url.com/2014/event-at-pittsfield-library-2-4-2014/"/>
+    <id>http://blog.url.com/2014/event-at-pittsfield-library-2-4-2014/</id>
+    <published>2014-02-02T20:43:00Z</published>
+    <updated>2014-07-05T01:53:29-04:00</updated>
+    <author>
+      <name>Blog contributor</name>
+    </author>
+    <summary type="html">&lt;h3 id="digital-fabrication--3d-art"&gt;Digital Fabrication &amp;amp; 3D Art&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.meetup.com/Berkshire-County-Technology-Group/events/159063332/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://pittsfieldlibrary.wordpress.com/2014/01/25/digital-fabrication-3d-art-presentation-on-tuesday-february-4/"&gt;More information here &lt;/a&gt; on the Pittsfield library website.&lt;/p&gt;
+
+&lt;p&gt;Group member Phil Webster is going to be talking about his artwork at an event
+at the Pittsfield Athenaeum scheduled through the Friends of the Berkshire...&lt;/p&gt;</summary>
+    <content type="html">&lt;h3 id="digital-fabrication--3d-art"&gt;Digital Fabrication &amp;amp; 3D Art&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.meetup.com/Berkshire-County-Technology-Group/events/159063332/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://pittsfieldlibrary.wordpress.com/2014/01/25/digital-fabrication-3d-art-presentation-on-tuesday-february-4/"&gt;More information here &lt;/a&gt; on the Pittsfield library website.&lt;/p&gt;
+
+&lt;p&gt;Group member Phil Webster is going to be talking about his artwork at an event
+at the Pittsfield Athenaeum scheduled through the Friends of the Berkshire
+Athenaeum. I'll be giving a short presentation beforehand. The description is
+below:&lt;/p&gt;
+
+&lt;p&gt;Digital fabrication techniques, often referred to as "3D protoyping" or "3D
+printing" are quickly becoming affordable at a consumer level, and are
+frequently featured in today's headlines. But, what exactly is 3D printing, how
+does it work, and what can it be used for? Come hear about the basics of how
+this technology works, including a variety of practical applications, and then
+see some real life examples of mathematical artwork created by local artist
+Phil Webster using these processes.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Meetup: 1/27/2014</title>
+    <link rel="alternate" href="http://blog.url.com/2014/meetup-1-27-2014/"/>
+    <id>http://blog.url.com/2014/meetup-1-27-2014/</id>
+    <published>2014-01-27T18:49:00Z</published>
+    <updated>2014-07-05T01:53:29-04:00</updated>
+    <author>
+      <name>Blog contributor</name>
+    </author>
+    <summary type="html">&lt;h3 id="coding"&gt;Coding&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.meetup.com/Berkshire-County-Technology-Group/events/161596012/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to have other meetings that will be on softer topics but this meeting
+will be focused on programming. That said, please come if you are interested in
+learning!&lt;/p&gt;
+
+&lt;p&gt;Agenda: We could start by sharing any interesting projects...&lt;/p&gt;</summary>
+    <content type="html">&lt;h3 id="coding"&gt;Coding&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.meetup.com/Berkshire-County-Technology-Group/events/161596012/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to have other meetings that will be on softer topics but this meeting
+will be focused on programming. That said, please come if you are interested in
+learning!&lt;/p&gt;
+
+&lt;p&gt;Agenda: We could start by sharing any interesting projects we're working on,
+then (depending on number of people) we could break up into pairs or larger
+groups to do code review, pairing programming or katas.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Meetup: 1/12/2014</title>
+    <link rel="alternate" href="http://blog.url.com/2014/meetup-1-12-2014/"/>
+    <id>http://blog.url.com/2014/meetup-1-12-2014/</id>
+    <published>2014-01-12T18:20:00Z</published>
+    <updated>2014-07-05T01:53:29-04:00</updated>
+    <author>
+      <name>Blog contributor</name>
+    </author>
+    <summary type="html">&lt;h3 id="tinkering-coding-or-just-general-geeking"&gt;Tinkering, coding or just general geeking&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.meetup.com/Berkshire-County-Technology-Group/events/158906502/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;No set agenda. I'll bring my box of Arduino boards and breadboards to tinker
+with, but if anyone would rather focus on coding (talking shop, pair
+programming, etc.) I'm up for that as well. Also...&lt;/p&gt;</summary>
+    <content type="html">&lt;h3 id="tinkering-coding-or-just-general-geeking"&gt;Tinkering, coding or just general geeking&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.meetup.com/Berkshire-County-Technology-Group/events/158906502/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;No set agenda. I'll bring my box of Arduino boards and breadboards to tinker
+with, but if anyone would rather focus on coding (talking shop, pair
+programming, etc.) I'm up for that as well. Also more than happy to just talk
+about science fiction or philosophy.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Meetup: 11/10/2013</title>
+    <link rel="alternate" href="http://blog.url.com/2013/meetup-11-10-2013/"/>
+    <id>http://blog.url.com/2013/meetup-11-10-2013/</id>
+    <published>2013-11-04T03:49:00Z</published>
+    <updated>2014-07-05T01:57:42-04:00</updated>
+    <author>
+      <name>Blog contributor</name>
+    </author>
+    <summary type="html">&lt;h3 id="play-with-arduinos-and-breadboards"&gt;Play with Arduinos and breadboards&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.meetup.com/Berkshire-County-Technology-Group/events/149030792/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We'll be creating basic programs to run on the Arduino board connected to a
+breadboard. If you're not familiar with what an Arduino or a breadboard are
+we'll be happy to bring you up to speed (we're...&lt;/p&gt;</summary>
+    <content type="html">&lt;h3 id="play-with-arduinos-and-breadboards"&gt;Play with Arduinos and breadboards&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.meetup.com/Berkshire-County-Technology-Group/events/149030792/"&gt;Meetup link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We'll be creating basic programs to run on the Arduino board connected to a
+breadboard. If you're not familiar with what an Arduino or a breadboard are
+we'll be happy to bring you up to speed (we're just beginners ourselves). Also
+as before let me know if Saturday is better than Sunday for you. &lt;/p&gt;
+</content>
+  </entry>
+</feed>
