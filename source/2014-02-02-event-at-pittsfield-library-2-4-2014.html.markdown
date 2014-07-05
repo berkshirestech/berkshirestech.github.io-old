@@ -4,7 +4,7 @@ date: 2014-02-02 20:43 UTC
 tags: meetup, special-event
 ---
 
-#### Digital Fabrication & 3D Art
+### Digital Fabrication & 3D Art
 
 [Meetup link](http://www.meetup.com/Berkshire-County-Technology-Group/events/159063332/)
 

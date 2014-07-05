@@ -3,7 +3,7 @@ title: "Meetup: 11/10/2013"
 date: 2013-11-04 03:49 UTC
 tags: meetup
 ---
-#### Play with Arduinos and breadboards
+### Play with Arduinos and breadboards
 
 [Meetup link](http://www.meetup.com/Berkshire-County-Technology-Group/events/149030792/)
 

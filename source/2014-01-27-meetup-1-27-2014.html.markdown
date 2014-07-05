@@ -4,7 +4,7 @@ date: 2014-01-27 18:49 UTC
 tags: meetup
 ---
 
-#### Coding
+### Coding
 
 [Meetup link](http://www.meetup.com/Berkshire-County-Technology-Group/events/161596012/)
 

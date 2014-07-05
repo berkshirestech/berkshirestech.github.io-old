@@ -3,7 +3,7 @@ title: "Meetup: 2/25/2014"
 date: 2014-02-23 07:11 UTC
 tags: meetup
 ---
-#### General Meeting
+### General Meeting
 
 [Meetup link](http://http://www.meetup.com/Berkshire-County-Technology-Group/events/167305992/)
 

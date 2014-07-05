@@ -1,6 +1,6 @@
 ---
 title: "Meetup: 7/15/2014"
-date: 2014-07-05 07:11 UTC
+date: 2014-07-05 05:58 UTC
 tags: meetup
 ---
 ### Designer/Developer meetup

@@ -3,7 +3,7 @@ title: "Meetup: 1/12/2014"
 date: 2014-01-12 18:20 UTC
 tags: meetup
 ---
-#### Tinkering, coding or just general geeking
+### Tinkering, coding or just general geeking
 
 [Meetup link](http://www.meetup.com/Berkshire-County-Technology-Group/events/158906502/)
 
