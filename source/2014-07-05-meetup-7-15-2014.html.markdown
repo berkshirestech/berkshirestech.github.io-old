@@ -1,0 +1,58 @@
+---
+title: "Meetup: 7/15/2014"
+date: 2014-07-05 07:11 UTC
+tags: meetup
+---
+### Designer/Developer meetup
+
+[Meetup link](http://www.meetup.com/Berkshire-County-Technology-Group/events/189708682/)
+
+![](/images/thunder-missile-launcher.jpg)
+
+This week's meeting will have a different format than usual. We will be playing
+a programming/physics game with [USB rocket
+launchers](http://www.dreamcheeky.com/thunder-missile-launcher). We will break
+into teams and write programs that teach the rocket launchers to shoot at
+targets when given some basic measurements. Then, toward the end of the meeting
+we will test out the programs. All in about 2 hours!
+
+For more information read on:
+
+### Thunder Missile Challenge
+
+#### Goal
+
+Write a program which can get a USB missile launcher to fire darts at targets
+using a json file containing targeting information. The targeting information
+will be based on easy to measure angles and distances, but the challenge is that
+the native API speaks only in turning and tilting directions and time periods.
+To accomplish the goal, you’ll need to be able to translate the high level
+information into the low level API. You will need some minor (easily googleable)
+physics and geometry knowledge.
+
+#### Details
+
+We have two USB rocket launchers, and will have computers with a basic node
+application with the API included. There will be two teams, each working
+independently to write an application which can read the targeting data from a
+file and then immediately try to shoot the targets. Teams will be given 90
+minutes to write the application before the final test. The final test will have
+targets set up with targeting data, and each team will take turns using the same
+targeting data to try to hit as many targets as accurately as possible. The team
+with the better score wins.
+
+#### Useful Knowledge
+
+There is no required knowledge or abilities for this other than critical
+thinking/problem solving. Each team will have at least one member with the
+necessary coding ability, but it would be great to get some team programming
+going. If you wanted to brush up on anything to be prepared, here are some
+things that would be helpful:
+
+- [Node.js](http://nodejs.org/) is the platform we will be using to talk to the launcher.
+- Node uses the JavaScript language, so that would be helpful, even if you have
+no prior Node experience.
+- A little bit of knowledge about angles, geometry, and some basic physics will be
+needed to get the job done. Internet access is available while writing the app,
+so you’ll be able to look up whatever you need, but it might help to have a
+basic understanding of the factors (for example, the role of gravity).
